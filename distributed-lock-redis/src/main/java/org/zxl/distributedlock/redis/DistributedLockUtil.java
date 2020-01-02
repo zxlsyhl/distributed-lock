@@ -1,4 +1,4 @@
-package org.zxl.distributedlock.redistype;
+package org.zxl.distributedlock.redis;
 
 import redis.clients.jedis.Jedis;
 
